@@ -17,8 +17,4 @@ The dataset used for this experiment is the Swedish Leaf Dataset,available at [h
 Experimental results showed that Random Forest (RF) achieved a classification accuracy of 98.83% against other ML algorithms with a combination of Grayscale images, HSV color moments, hu moments, and haralick features. The ResNet50 model gave us the best accuracy of 99.85% compared to other models. A CNN convolves learned features with input data and uses 2D convolutional layers. We have built our own CNN model from scratch and managed to reach an accuracy of 98.04%. 
 
 ## Authors
-Vibhav Sharma
-Jagruthi Vidya
-Mohammad Sabiha
-Sameera Tasneem
-Siva Noolu
+Vibhav Sharma, Jagruthi Vidya, Mohammad Sabiha, Sameera Tasneem, Siva Noolu
